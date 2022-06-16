@@ -1,0 +1,9 @@
+name: dt_learning
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - seaborn
+  - scikit-learn
+  - pandas
+  - jupyterlab
